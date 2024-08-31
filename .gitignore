@@ -1,2 +1,4 @@
-statics/*
+statics/attachments/*
+statics/emails/*
+
 .idea
